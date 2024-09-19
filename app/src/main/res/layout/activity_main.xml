@@ -6,6 +6,7 @@
     android:gravity="center"
     android:padding="16dp">
 
+    <!-- TextView para el saludo personalizado -->
     <TextView
         android:id="@+id/greetingTextView"
         android:layout_width="wrap_content"
@@ -14,6 +15,7 @@
         android:textSize="24sp"
         android:paddingBottom="16dp"/>
 
+    <!-- Botón para ir a la actividad principal -->
     <Button
         android:id="@+id/btnMainActivity"
         android:layout_width="wrap_content"
