@@ -7,7 +7,7 @@ class PrincipalActivity {
 
         override fun onCreate(savedInstanceState: Bundle?) {
             super.onCreate(savedInstanceState)
-            setContentView(R.layout.activity_principal) // Asegúrate de tener un archivo XML llamado activity_principal.xml
+            setContentView(R.layout.principal_activity) // Asegúrate de tener un archivo XML llamado activity_principal.xml
         }
     }
 
