@@ -1,10 +1,10 @@
+package com.example.taller1_assil
+
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import android.widget.Button
 import android.widget.TextView
-import com.example.taller1_assil.PrincipalActivity
-import com.example.taller1_assil.R
 import java.util.Calendar
 
 class MainActivity : AppCompatActivity() {
